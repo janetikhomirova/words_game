@@ -1,0 +1,4 @@
+venv
+
+embeddings/sberbank-ai_ruRoberta-large.npy
+embeddings/cointegrated_LaBSE-en-ru.npy
